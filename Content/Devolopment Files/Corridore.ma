@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
 //Name: Corridore.ma
-//Last modified: Tue, Feb 12, 2019 11:42:33 PM
+//Last modified: Wed, Feb 13, 2019 12:05:31 AM
 //Codeset: 1252
 requires maya "2019";
 requires -nodeType "gameFbxExporter" "gameFbxExporter" "1.0";
@@ -18,8 +18,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "8F779A4B-44ED-5404-7B91-63B3191C2666";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -864.08956092081451 394.62679568552124 258.71465044031527 ;
-	setAttr ".r" -type "double3" -20.138352793795399 -5112.1999999999516 -5.2021647532973676e-15 ;
+	setAttr ".t" -type "double3" -772.47451964334402 527.59446281037731 333.10820963407411 ;
+	setAttr ".r" -type "double3" -27.938352793833808 -5106.1999999998607 -7.8815307976445047e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "C3FC220C-4E6A-B032-77CB-41A198B4018E";
 	setAttr -k off ".v" no;
