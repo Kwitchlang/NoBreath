@@ -1,17 +1,12 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.19",
+	"EngineAssociation": "{8AE3F830-4031-C82E-5F29-E59BD1D1C1D7}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "LowEntryExtStdLib",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
-		},
-		{
 			"Name": "HoudiniEngine",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "StructBox",
@@ -21,11 +16,6 @@
 			"Name": "MeshTool",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7289f8ad4b6c43b289affc9870db344a"
-		},
-		{
-			"Name": "GameAnalytics",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490"
 		},
 		{
 			"Name": "AnalyticsBlueprintLibrary",
@@ -40,9 +30,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Substance",
+			"Name": "LowEntryExtStdLib",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
 		}
 	]
 }
