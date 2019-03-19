@@ -37,6 +37,10 @@
 		{
 			"Name": "Ansel",
 			"Enabled": true
+		},
+		{
+			"Name": "CustomUtilities",
+			"Enabled": false
 		}
 	]
 }
