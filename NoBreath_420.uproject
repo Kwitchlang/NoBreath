@@ -1,16 +1,12 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
-		},
-		{
-			"Name": "StructBox",
-			"Enabled": true
 		},
 		{
 			"Name": "MeshTool",
